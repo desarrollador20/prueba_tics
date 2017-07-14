@@ -10,6 +10,7 @@ switch ($_GET['f']) {
     case 'insertarAutorizacion':
         insertarAutorizacion();
         break;
+        continue;
 }
 
 function createConnection($dbengine, $host, $port, $dbname, $user, $pass) {
