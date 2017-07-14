@@ -2,6 +2,8 @@
 
 //echo 'hola 1';
 
+//Daniel hizo esto
+
 switch ($_GET['f']) {
     case 'prueba':
         prueba();
